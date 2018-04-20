@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="File" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gracz" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQABQAAAAASIAEAAFCAgAEAABAAAAACAQBARAAAACA=</HashCode>
+      <FileName>Gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itemy" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAACAEAAAAAAIAQAAABAA=</HashCode>
+      <FileName>Itemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postacie" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAIACAAAAAAAAAkAAAAAAAAQABABAA=</HashCode>
+      <FileName>Postacie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rzeczy" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAABEAAAAAAgAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>rzeczy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
